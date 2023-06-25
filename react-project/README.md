@@ -1,3 +1,7 @@
+<h1>React Facts Project</h1>
+
+<img width="1440" alt="react-facts-view" src="https://github.com/nora-weisser/react-projects/assets/65826199/ebdaab3c-ac55-4a2d-953f-a798b6d90819">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
